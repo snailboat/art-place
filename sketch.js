@@ -3,5 +3,6 @@ function setup() {
 }
 
 function draw() {
-  ellipse(100, 100, 100, 100);
+  fill(color('blue'));
+  rect(100, 100, 100, 100);
 }
